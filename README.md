@@ -1,64 +1,68 @@
+# 🌱 GrowGenius  
+**Smart Farming and Crop Advisory Platform**
+
+[![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)]()
+[![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)]()
+[![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=scikit-learn&logoColor=white)]()
+[![Google Maps API](https://img.shields.io/badge/Google%20Maps%20API-4285F4?style=for-the-badge&logo=googlemaps&logoColor=white)]()
+[![OpenWeather](https://img.shields.io/badge/OpenWeatherMap-FF7F50?style=for-the-badge&logo=OpenWeather&logoColor=white)]()
+
+GrowGenius is a full-stack smart agriculture platform that integrates **crop prediction**, **weather forecasting**, **disease detection**, and **nearby store locator** features using AI/ML and open APIs. Developed to assist farmers with data-driven insights and recommendations.
 
 ---
 
-## ✅ **Public Showcase Repository README** :
+## 🧠 Problem Statement
 
-```markdown
-# 🌱 GrowGenius – Smart Agriculture Platform
+**Empowering farmers with AI-driven insights and accessible crop care tools.**
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
-![React](https://img.shields.io/badge/React-20232a?style=flat&logo=react&logoColor=61DAFB)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=flat&logo=scikit-learn&logoColor=white)
-
-GrowGenius is a full-stack AI-powered agriculture assistant designed to provide farmers with intelligent insights and tools to improve crop yield, diagnose diseases, and optimize resource usage. This repository showcases the functionality and UI of the project for recruiters and collaborators.
+> Goal: Develop an all-in-one intelligent farming assistant to enhance crop productivity, predict yield, monitor weather, detect diseases, and assist with decision-making.
 
 ---
 
-## 🔍 Features Overview
+## 🌟 Key Features
 
-- ✅ Crop Recommendation & Fertilizer Suggestions using ML
-- 🌿 Plant Disease Detection using Deep Learning
-- 📈 Smart Dashboards for real-time agri-data
-- ☀️ Weather Forecast Integration
-- 📍 Agri-Stores Finder with Maps
-- 💬 Chatbot for Farmer Queries
-- 🎯 Yield Prediction & Advisory Tools
+- 🌾 **Crop & Fertilizer Recommendation System**  
+  Input-based crop suggestions using ML models trained on soil parameters and environmental data.
 
----
+- ☁️ **Live Weather Dashboard**  
+  Real-time and forecast data using OpenWeatherMap API with regional insights.
 
-## 📸 Screenshots
+- 🧪 **Disease Detection via ML Models**  
+  Upload images of infected crops to get disease predictions and treatment suggestions.
 
-Preview of core features (available in [`assets/screenshots/`](assets/screenshots/)):
+- 🗺️ **Nearby Agri Stores Locator**  
+  Google Maps API powered map view showing nearest agri-service providers.
 
-- 🌾 **Home & Vision:** `Home_page.png`, `Mission_Vision.png`
-- 🧠 **ML Tools:** `Yeild_Prediction.png`, `Crop_care_advisor.png`, `Disease_detection.png`
-- 💬 **Chatbot:** `Chatbot.png`, `chat.png`
-- 🌦 **Dashboards:** `Weature_Dashboard.png`, `Temperature_dashboard.png`, `dashboard_visuals.png`
-- 📍 **Stores:** `NearBy_Agristores.png`, `NearBy_Stores_List.png`
+- 📊 **Smart Farming Dashboard**  
+  Visual insights, charts, and stats on farming data for better planning.
+
+- 💬 **Integrated Chatbot**  
+  Quick help for basic farming queries through a simple, interactive bot.
 
 ---
 
-## 🎓 Skills & Tools Demonstrated
+## 📱 Screenshots
 
-- **Full-Stack Development:** React, Django, REST API
-- **AI & ML Integration:** Deep Learning (TensorFlow/Keras), scikit-learn
-- **DevOps:** GitHub, Git LFS, project structuring
-- **Data Visualization:** Charts, Dashboards, Metrics
-- **UI/UX:** Responsive design with TailwindCSS
+| Home Page | Mission & Vision | Features | Footer |
+|-----------|------------------|----------|--------|
+| ![](assets/screenshots/Home_page.png) | ![](assets/screenshots/Mission_Vision.png) | ![](assets/screenshots/Features.png) | ![](assets/screenshots/Values_and_footer.png) |
+
+| Crop Advisory | Disease Detection | Yield Prediction | Temperature Dashboard |
+|---------------|-------------------|------------------|------------------------|
+| ![](assets/screenshots/Crop_care_advisor.png) | ![](assets/screenshots/Disease_detection.png) | ![](assets/screenshots/Yeild_Prediction.png) | ![](assets/screenshots/Temperature_dashboard.png) |
+
+| Weather Dashboard | Weather Stats | Dashboard Visuals | Smart Farming Dashboard |
+|-------------------|----------------|--------------------|--------------------------|
+| ![](assets/screenshots/Weature_Dashboard.png) | ![](assets/screenshots/Weature_stats.png) | ![](assets/screenshots/dashboard_visuals.png) | ![](assets/screenshots/Smart_farming_dashboard.png) |
+
+| Nearby Stores Map | Store List | Testimonials | Contact Us |
+|-------------------|------------|--------------|------------|
+| ![](assets/screenshots/NearBy_Agristores.png) | ![](assets/screenshots/NearBy_Stores_List.png) | ![](assets/screenshots/Testimonials.png) | ![](assets/screenshots/Contact_us.png) |
+
+| Chatbot Home | Chat Window |
+|--------------|-------------|
+| ![](assets/screenshots/Chatbot.png) | ![](assets/screenshots/chat.png) |
 
 ---
 
-## 👨‍💻 Developer Profile
-
-**Aniket Vyavhare**  
-🔗 [GitHub Profile](https://github.com/am-vyavhare)  
-🔗 [LinkedIn Profile](https://www.linkedin.com/in/aniket-vyavhare/)  
-📧 amvyavhare@gmail.com
-
-> 📁 This is a showcase-only repository. Source code is hosted privately. Feel free to reach out to me for access or collaboration.
-
----
-
+> 🎯 **Note**: This is a showcase repository for portfolio purposes. The backend models and production code remain private. For demo or collaboration inquiries, feel free to reach out via [LinkedIn](https://www.linkedin.com/in/am-vyavhare/) or [GitHub](https://github.com/am-vyavhare).
